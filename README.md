@@ -23,17 +23,3 @@ Aqui estão as ferramentas e linguagens que domino e utilizo:
 </div>
 
 ---
-
-## 📊 Meu Desempenho
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ren4yi&show_icons=true&theme=tokyonight" alt="Hanna's GitHub Stats" />
-</p>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ren4yi/ren4yi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ren4yi/ren4yi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ren4yi/ren4yi/output/github-contribution-grid-snake.svg">
-</picture>
