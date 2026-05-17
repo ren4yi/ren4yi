@@ -4,9 +4,6 @@
 ## 📌 infos:
 Atualmente sou estudante no **Instituto Federal Catarinense (IFC)**, cursando o Ensino Técnico em **Informática para Internet** (2º ano de 3).
 
-Mais sobre mim:
-🔗 [ren4yi.carrd.co](https://ren4yi.carrd.co/)
-
 ---
 
 ## 🛠️ Tecnologias & Habilidades
