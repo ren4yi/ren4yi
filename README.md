@@ -5,7 +5,7 @@ Atualmente sou estudante no **Instituto Federal Catarinense (IFC)**, cursando o 
 ---
 
 ## 📌 infos:
-✨ Descubra mais sobre mim:
+Mais sobre mim:
 🔗 [ren4yi.carrd.co](https://ren4yi.carrd.co/)
 
 ---
