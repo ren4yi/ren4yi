@@ -24,7 +24,6 @@ Aqui estão as ferramentas e linguagens que domino e utilizo:
 ## 📊 Meu Desempenho
 
 <p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ren4yi&theme=dracula" alt="GitHub Streak" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ren4yi&theme=dracula" alt="Top Languages" />
 </p>
 
