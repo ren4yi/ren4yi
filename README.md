@@ -20,15 +20,6 @@ Aqui estão as ferramentas e linguagens que domino e utilizo:
 
 ---
 
-
-## 📊 Meu Desempenho
-
-<p align="left">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ren4yi&theme=dracula" alt="Top Languages" />
-</p>
-
----
-
 <p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ren4yi/ren4yi/output/github-contribution-grid-snake-dark.svg">
