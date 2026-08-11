@@ -2,7 +2,7 @@
 ---
 
 ## 📌 infos:
-Atualmente sou estudante no **Instituto Federal Catarinense (IFC)**, cursando o Ensino Técnico em **Informática para Internet**.
+Atualmente sou estudante no **Instituto Federal Catarinense (IFC)**, cursando o Ensino Técnico em **Informática para Internet 2/3**.
 
 ---
 
